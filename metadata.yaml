@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '5309'
     url: http://www.gutenberg.org/2009/agents/5309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13978#The-Horse-Shoe--13-The-True-Legend-of-St.-Dunstan-and-the-Devil-Showing-How-the-Horse-Shoe-Ca_
 gutenberg_issued: '2004-11-08'
 gutenberg_type: Text
 identifiers:
